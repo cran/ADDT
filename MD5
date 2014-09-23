@@ -1,0 +1,14 @@
+debb0ac29f447da4d4874450374a4c52 *DESCRIPTION
+c3cdf69ef3a013a013b25607f1e2f3bb *NAMESPACE
+1b51687a53f3063dc2f21937ba8a596d *R/ADDT-package.R
+c61ce5b91f5c279bed8aa4b05dfa820c *data/AdhesiveBondB.rda
+26c0df1ee266f0861592ae1d68e5f937 *data/SealStrength.rda
+9fb8ce25118cd28d0192b2358d715731 *man/ADDT-package.Rd
+6bcfdbab490ebe2164db094be0e5f7e0 *man/AdhesiveBondB.Rd
+348440199e7878965913d182f218cf7d *man/SealStrength.Rd
+d2e285c8aedb82c704895d9532347e83 *man/addt.confint.ti.mle.Rd
+331eedc43254f8fa283f534c4f7e6d1b *man/addt.fit.Rd
+1ecb6a112aa3674c9c2573c672dab53a *man/addt.mean.summary.Rd
+fca4983e7127f4138712ec555a2997eb *man/addt.predint.ybar.mle.Rd
+3a27abd59d6ade86480dfb1aa8e68c92 *man/plot.addt.fit.Rd
+d476aac23b6914a6dd8edb647404590e *man/summary.addt.fit.Rd

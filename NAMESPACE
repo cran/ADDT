@@ -1,0 +1,5 @@
+export(addt.fit, addt.confint.ti.mle, addt.predint.ybar.mle,addt.mean.summary)
+S3method(plot, addt.fit)
+S3method(summary, addt.fit)
+S3method(print, addt.fit)
+S3method(print, summary.addt.fit)
