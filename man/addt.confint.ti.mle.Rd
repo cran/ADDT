@@ -1,10 +1,10 @@
 \name{addt.confint.ti.mle}
 \alias{addt.confint.ti.mle}
 \title{
-Confidence Interval for Thermal Index (TI) Estimate.
+Confidence Interval for Thermal Index (TI).
 }
 \description{
-Computes a confidence interval for the TI estimate.
+Computes a confidence interval for the TI.
 }
 \usage{
 addt.confint.ti.mle(obj, conflevel)
@@ -18,7 +18,7 @@ Confidence level in decimal form (i.e., 95\% is 0.95)
 }
 }
 \note{
-This function only works with an object resulted from the \emph{ML} approach.
+This currently only implements the CI procedure for \emph{ML} approach.
 }
 \value{
 Returns a vector containing the estimated TI, standard error, and lower and upper confidence limits.

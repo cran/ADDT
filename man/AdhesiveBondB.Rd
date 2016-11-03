@@ -17,5 +17,8 @@ A dataset from Escobar et al. (2003) containing the results of an accelerated de
   }
 }
 \source{
-Escobar, L. A., W. Q. Meeker, D. L. Kugler, and L. L. Kramer (2003). Accelerated destructive degradation tests: Data, models, and analysis. \emph{Singapore: World Scientific Publishing Company}.
+L. A. Escobar, W. Q. Meeker, D. L. Kugler, and L. L. Kramer, ``Accelerated destructive degradation
+tests: Data, models, and analysis,'' in Mathematical and Statistical Methods in Reliability,
+B. H. Lindqvist and K. A. Doksum, Eds. River Edge, NJ: World Scientific Publishing
+Company, 2003, ch. 21.
 }

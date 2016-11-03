@@ -6,6 +6,8 @@ Data for Seal Strength
 }
 \description{
 Seal Strength dataset presented in Li and Doganaksoy (2014).
+
+In the R package ADDT, Seal Strength dataset has minor modifications where the temperature at time point 0 is changed to 200 degree where in the original dataset, it is 100 degree. This is a computing trick that will not affect the model results.
 }
 \usage{data(SealStrength)}
 \format{
@@ -20,6 +22,6 @@ Seal Strength dataset presented in Li and Doganaksoy (2014).
 Seal strength dataset is collected under an experiment of testing the strength of a new seal.
 }
 \source{
-Li, M. and N. Doganaksoy (2014). Batch variability in accelerated-degradation testing. \emph{Journal of Quality Technology 46(2)}, 171--180.
+M. Li, and N. Doganaksoy (2014). Batch variability in accelerated-degradation testing. \emph{Journal of Quality Technology 46, 171-180}.
 }
 

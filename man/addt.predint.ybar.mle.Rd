@@ -33,7 +33,7 @@ Returns a vector containing the lower and upper bounds of the prediction interva
 This function only works with an object resulted from \emph{ML} approach.
 }
 \references{
-Hong, Y., King, C. B., Xie, Y., Van Mullekom, J. H., Dehart, S. P. and DeFeo, P. A. (2014). A Comparison of Least Squares and Maximum Likelihood Approaches to Estimating Thermal Indices for Polymeric Materials. \emph{Technical Report}.
+Y. Hong, C. B. King, Y. Xie, J. H. Van Mullekom, S. P. Dehart, and P. A. DeFeo (2014). ``A Comparison of Least Squares and Maximum Likelihood Approaches to Estimating Thermal Indices for Polymeric Materials,''  Journal of Quality Technology, in press, 2016.
 }
 \seealso{
 \code{\link{addt.fit}}

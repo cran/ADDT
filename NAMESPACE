@@ -3,3 +3,16 @@ S3method(plot, addt.fit)
 S3method(summary, addt.fit)
 S3method(print, addt.fit)
 S3method(print, summary.addt.fit)
+
+import(Matrix,coneproj,nlme)
+
+importFrom("graphics", "abline", "legend", "lines", "matplot", "par",
+             "plot", "points", "text")
+importFrom("stats", "approx", "coef", "deriv", "dnorm", "fitted", "lm",
+             "logLik", "nlminb", "optim", "plogis", "qlogis", "qnorm",
+             "quantile", "runif", "sd")
+importFrom("utils", "read.csv")
+importFrom("stats", "as.formula", "asOneSidedFormula", "contrasts",
+             "formula", "model.frame", "model.matrix", "na.fail",
+             "terms")
+importFrom("stats", "aggregate")
